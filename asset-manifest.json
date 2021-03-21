@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/roncy12/Web-Portfolio.git/static/css/main.becb9466.chunk.css",
+    "main.js": "/roncy12/Web-Portfolio.git/static/js/main.b711ca3e.chunk.js",
+    "main.js.map": "/roncy12/Web-Portfolio.git/static/js/main.b711ca3e.chunk.js.map",
+    "runtime-main.js": "/roncy12/Web-Portfolio.git/static/js/runtime-main.fb0632c7.js",
+    "runtime-main.js.map": "/roncy12/Web-Portfolio.git/static/js/runtime-main.fb0632c7.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/roncy12/Web-Portfolio.git/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.2e3ea1f9.chunk.js": "/roncy12/Web-Portfolio.git/static/js/2.2e3ea1f9.chunk.js",
+    "static/js/2.2e3ea1f9.chunk.js.map": "/roncy12/Web-Portfolio.git/static/js/2.2e3ea1f9.chunk.js.map",
+    "static/js/3.03cf7945.chunk.js": "/roncy12/Web-Portfolio.git/static/js/3.03cf7945.chunk.js",
+    "static/js/3.03cf7945.chunk.js.map": "/roncy12/Web-Portfolio.git/static/js/3.03cf7945.chunk.js.map",
+    "index.html": "/roncy12/Web-Portfolio.git/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/roncy12/Web-Portfolio.git/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.becb9466.chunk.css.map": "/roncy12/Web-Portfolio.git/static/css/main.becb9466.chunk.css.map",
+    "static/js/2.2e3ea1f9.chunk.js.LICENSE.txt": "/roncy12/Web-Portfolio.git/static/js/2.2e3ea1f9.chunk.js.LICENSE.txt",
+    "static/media/Face-detect.bb7f5897.png": "/roncy12/Web-Portfolio.git/static/media/Face-detect.bb7f5897.png",
+    "static/media/Robofriends.73a25197.png": "/roncy12/Web-Portfolio.git/static/media/Robofriends.73a25197.png",
+    "static/media/github.9cea0b64.png": "/roncy12/Web-Portfolio.git/static/media/github.9cea0b64.png",
+    "static/media/profile.e46b9fe7.jpg": "/roncy12/Web-Portfolio.git/static/media/profile.e46b9fe7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb0632c7.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.2e3ea1f9.chunk.js",
+    "static/css/main.becb9466.chunk.css",
+    "static/js/main.b711ca3e.chunk.js"
+  ]
+}
