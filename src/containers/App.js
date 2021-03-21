@@ -3,11 +3,11 @@ import './App.css';
 import Particles from 'react-particles-js';
 import React, { Component } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import profile from './assets/profile.jpg';
-import Robofriends from './assets/Robofriends.png';
-import FaceDetect from './assets/Face-detect.png';
-import github from './assets/github.png';
-import email from './assets/email.png';
+import profile from '../assets/profile.jpg';
+import Robofriends from '../assets/Robofriends.png';
+import FaceDetect from '../assets/Face-detect.png';
+import github from '../assets/github.png';
+import email from '../assets/email.png';
 import Tilt from 'react-tilt';
 
 import Nav from 'react-bootstrap/Nav';
