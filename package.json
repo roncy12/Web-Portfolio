@@ -1,6 +1,6 @@
 {
   "name": "webportfolio",
-  "homepage": "https://github.com/roncy12/webportfolio.git",
+  "homepage": "https://roncy12.github.io/Web-portfolio.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,7 +11,6 @@
     "react": "^17.0.1",
     "react-bootstrap": "^1.5.2",
     "react-bootstrap-validation": "^0.1.11",
-    "gh-pages": "^3.1.0",
     "react-dom": "^17.0.1",
     "react-intl": "^4.0.0",
     "react-particles-js": "^3.4.1",
@@ -46,6 +45,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
-
 }

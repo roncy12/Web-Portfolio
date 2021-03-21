@@ -130,13 +130,13 @@ const particlesOptions = {
                       </div>
               
      
-    //!-- **** Projects Section **** -->
+    
                     <div class="container">
                       <div class="project-wrapper">
                         <h2 class="section-title dark-blue-text text-light">
                           Projects
                         </h2>
-          // !-- Each .row is a project -->
+          
                         <div class="row">
                           <div class="col-lg-4 col-sm-12">
                             <div class="project-wrapper__text">
