@@ -8,18 +8,11 @@ import Robofriends from './assets/Robofriends.png';
 import FaceDetect from './assets/Face-detect.png';
 import github from './assets/github.png';
 import email from './assets/email.png';
-import linkedin from './assets/linkedin.png';
 import Tilt from 'react-tilt';
-import button from 'react-bootstrap/button';
 
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
-import Form from 'react-bootstrap/Form';
-import Button from 'react-bootstrap/Button';
-import FormControl from 'react-bootstrap/FormControl';
-import NavDropdown from 'react-bootstrap/NavDropdown';
-import NavItem from 'react-bootstrap/NavItem';
-import Link from 'react-router-dom/Link';
+
 
 
 
@@ -58,10 +51,10 @@ const particlesOptions = {
                         </Nav>
                         <Nav>
                           <Nav.Link href="#deets" className="text-light">
-                            <img src={github} class="icon-account" />
+                            <img src={github} alt="" class="icon-account" />
                           </Nav.Link>
                           <Nav.Link eventKey={2} href="#memes" className="text-light">
-                            <img src={email} class="icon-account" />
+                            <img src={email} alt="" class="icon-account" />
                           </Nav.Link>
 
                         </Nav>
@@ -70,12 +63,12 @@ const particlesOptions = {
 
                     <div id="hero" class="jumbotron">
                        <div class="container">
-                       <h1 class="hero-title" class="load-hidden">
+                       <h1 class="hero-title load-hidden" >
                         Hi, my name is <span class="text-info">John Roncy Nava</span>
                        <br />
                        I'm the Developer you need.
                        </h1>
-                       <p class="hero-cta" class="load-hidden">
+                       <p class="hero-cta load-hidden" >
                         <a class="cta-btn cta-btn--hero" href="#about">Hire me</a>
                        </p>
                        </div>
@@ -148,20 +141,20 @@ const particlesOptions = {
                                   </p>
                               </div>
                               
-                              <a target="_blank" class="cta-btn cta-btn--hero" href="https://roncy12.github.io/Updated-Robofriends/">
+                              <a target="_blank" rel="noreferrer"  class="cta-btn cta-btn--hero" href="https://roncy12.github.io/Updated-Robofriends/">
                                 See Live
                               </a>
-                              <a target="_blank" class="cta-btn text-color-main" href="https://github.com/roncy12/Updated-Robofriends">
+                              <a target="_blank" rel="noreferrer" class="cta-btn text-color-main" href="https://github.com/roncy12/Updated-Robofriends">
                                 Source Code
                               </a>
                             </div>
                           </div>
                           <div class="col-lg-8 col-sm-12">
                             <div class="project-wrapper__image">
-                            <a href="https://roncy12.github.io/Updated-Robofriends/" target="_blank">
+                            <a href="https://roncy12.github.io/Updated-Robofriends/" rel="noreferrer" target="_blank">
                                 <div data-tilt class="thumbnail rounded">
                                 <Tilt className="Tilt" options={{ max : 25 }}  >
-                                 <img class="img-fluid" src={Robofriends} />
+                                 <img class="img-fluid" alt="" src={Robofriends} />
                                 </Tilt>
                                 </div>
                             </a>
@@ -180,20 +173,20 @@ const particlesOptions = {
                                  The full stack face recognition app I built with React, Express, Node and PostgreSQL in TypeScript. This app was inspired by the excellent Udemy course The Complete Web Developer in 2020: Zero to Mastery by Andrei Neagoie.
                             </p>
                           </div>
-                          <a target="_blank" class="cta-btn cta-btn--hero" href="https://detect-smart-brain.herokuapp.com/">
+                          <a target="_blank" rel="noreferrer" class="cta-btn cta-btn--hero" href="https://detect-smart-brain.herokuapp.com/">
                             See Live
                           </a>
-                          <a target="_blank" class="cta-btn text-color-main" href="https://github.com/roncy12/facerecognitionbrain/tree/master">
+                          <a target="_blank" rel="noreferrer" class="cta-btn text-color-main" href="https://github.com/roncy12/facerecognitionbrain/tree/master">
                             Source Code
                           </a>
                         </div>
                       </div>
                       <div class="col-lg-8 col-sm-12">
                         <div class="project-wrapper__image">
-                          <a href="https://detect-smart-brain.herokuapp.com/" target="_blank">
+                          <a href="https://detect-smart-brain.herokuapp.com/" rel="noreferrer" target="_blank">
                             <div data-tilt class="thumbnail rounded">
                              <Tilt className="Tilt" options={{ max : 25 }}  >
-                              <img class="img-fluid" src={FaceDetect} />
+                              <img class="img-fluid" alt="" src={FaceDetect} />
                               </Tilt>
                             </div>
                           </a>
@@ -240,7 +233,7 @@ const particlesOptions = {
                               href="jroncynavs12@gmail.com"
                               >Call to Action</a>
                           </div>
-                          © 2021- Template developed by <a href="https://github.com/cobidev" className="text-light" target="_blank">John Roncy Nava</a>
+                          © 2021- Template developed by <a href="https://github.com/cobidev" rel="noreferrer" className="text-light" target="_blank">John Roncy Nava</a>
                      
                         </p>
 
